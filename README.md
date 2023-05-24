@@ -1,0 +1,2 @@
+# DjangoAI
+DjangoAI_MVP
